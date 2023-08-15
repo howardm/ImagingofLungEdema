@@ -1,0 +1,590 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: false
+editor: visual
+---
+
+<br> <br>
+
+<h1>Imaging of Lung Edema</h1>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
+
+## A Simple Definition of Lung Edema and the Starling Equation
+
+> Lung edema is an accumulation of lung water.
+
+The *Starling Equation* describes the factors determining fluid filtration across the pulmonary capillary.
+
+![](images/StarlingEquation.jpg){fig-align="center"}
+
+[NDF represents the net driving force for fluid filtration]{style="font-size: 24px;"}
+
+[σ represents a reflection coefficient for movement of large molecules (such as protein) across the capillary wall - from 0 if completely permeable to 1 if impermeable.]{style="font-size: 24px;"}
+
+## The Starling Equation in the Lung
+
+<br>
+
+::: columns
+::: {.column width="80%"}
+![](images/LungStarling.jpg){fig-align="center" width="80%"}
+
+[Source: https://www.anaesthesiamcq.com/FluidBook/fl4_4.php]{style="color: gray; font-size: 20px;"}
+
+<br> Lung edema occurs when factors in the Starling Equation promote excessive capillary fluid filtration <br> <br> We distinguish between *hydrostatic* and *acute lung injury edema* [^1]
+:::
+:::
+
+[^1]: Synonyms: increased-permeability edema; non-cardiogenic edema
+
+## Hydrostatic lung edema
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+<br>
+
+Two general causes should be considered:
+
+- left atrial hypertension of any etiology, most commonly 
+    - diminished left ventricular ejection fraction 
+    - hypervolemia
+    - cardiac valvular disease
+- narrowing and/or occlusions of pulmonary veins
+
+:::
+::: {.column width="50%"}
+
+
+![](images/lungstarlinghydrostatic.jpg){fig-align="center" width="70%"}
+:::
+
+:::
+
+
+## Acute Lung Injury - What is injured ?
+
+::: columns
+::: {.column width="40%"}
+[[The alveolar-capillary barrier (electron microscopy)]{.underline}]{style="font-size: 35px;"}
+
+<br>
+The consequence is the passage of large molecules and water directly into alveoli.
+
+The pathologic counterpart is *Diffuse Alveolar Damage*
+
+<br>
+
+![](images/dad.jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="60%"}
+
+
+![](images/alveolarcapillarybarrier.jpg){fig-align="center" width="80%"}
+
+
+:::
+:::
+
+## Imaging Findings of Edema
+
+Interstitial Edema
+
+
+::: columns
+::: {.column width="40%"}
+
+The *axial* connective tissue compartment is constituted by the [bronchovascular sheaths]{style="color: gray;"} surrounding broncho-arterial bundles and pulmonary veins. The *parenchymal* compartment is constituted by the alveolar septa (intralobular interstitium) and the [peripheral, subpleural interstitium]{style="color: gray;"}, anatomically continuous with [interlobular septa]{style="color: gray;"}.
+
+When water accumulates in these locations, the corresponding imaging findings are, respectively:
+
+-   peribronchial fluid cuffs
+-   apparent thickening of the interlobar fissures
+-   septal lines
+
+:::
+
+::: {.column width="60%"}
+
+<br>
+
+![](images/pulmonaryinterstitium.jpg){fig-align="center" width="80%"}
+
+:::
+
+:::
+
+##  A Case of Florid Interstitial Edema
+
+![](images/floridinterstitialedema.jpg){fig-align="center"}
+
+
+## Signs of Interstitial Edema
+
+Peri-bronchial fluid cuff
+
+<br>
+
+::: columns
+::: {.column width="70%"}
+
+The broncho-arterial bundle---bronchi and arteries run together---is surrounded by a connective tissue sheath This is shown in this animal model-derived micrograph, before and after it is filled with water ([\*\*\*]{style="color: blue;"}), with a corresponding CT image alongside.
+
+<br>
+
+![](images/sheathwater.jpg){fig-align="center" width="100%"}
+
+:::
+
+
+::: {.column width="30%"}
+
+
+![](images/peribronchialfluidcuff.jpg){fig-align="center" width="93%"}
+
+
+:::
+
+:::
+
+## Signs of Interstitial Edema
+
+Subpleural interstitial edema
+
+Anatomy of the subpleural interstitium
+
+::: columns
+::: {.column width="60%"}
+
+![](images/subpleuralinterstitium.jpg){fig-align="center" width="93%"}
+
+When two of these sub-visceral pleural compartments are contiguous, as is the case in relation to the interlobar fissures, the accumulating fluid (blue asterisks) suggests "thickening" of the fissures.
+
+Recognizing Peter Kerley, even if his explanation was fanciful!
+
+![](images/kerleysubpleuraledema.jpg){fig-align="center" width="60%"}
+
+
+:::
+
+::: {.column width="40%"}
+
+
+![](images/ctcxrinterlobarfissuresedema.jpg){fig-align="center" width="100%"}
+
+
+:::
+:::
+
+
+## Signs of Interstitial Edema
+
+Interlobular septal edema
+
+::: columns
+::: {.column width="30%"}
+
+<br>
+
+These represent interlobular septa, the connective-tissue-bearing structures, separating one lobule from its neighbor, distended with fluid and rendered visible. 
+
+Traditionally, the horizontally-oriented, short lines above the lateral costophrenic sulci on frontal radiography are termed Kerley B lines; those in proximity to the hila, Kerley A lines; and those imaged *en face*, perceptually a reticular-type network, Kerley C lines.
+
+:::
+
+::: {.column width="70%"}
+
+![](images/septallines.jpg){fig-align="center" width="100%"}
+---
+
+
+![](images/kerleyab.jpg){fig-align="center" width="45%"}
+
+:::
+:::
+
+## Signs of Interstitial Edema
+
+
+<br>
+<br>
+<br>
+
+::: {.callout-note icon="false"}
+## [Findings of interstitial edema---key points]{style="font-size: 30px;"}
+
+-   [look for peribronchial fluid cuffs, septal lines, and subpleural edema. All are not perceivable in every instance, particularly on bedside radiography with its technical and display limitations.]{style="font-size: 26px;"}
+-   [other descriptors of the opacities or findings---such as interstitial opacities or lines, hazy opacities, indistinct vessels, reticular opacities---are associated with very substantial inter-observer variation, have no meaningful anatomic basis in this setting, and are not helpful.]{style="font-size: 26px;"}
+:::
+
+##  Alveolar edema
+
+<br>
+
+This manifests as consolidation, no different from other causes of it.
+
+![](images/alveolaredema.jpg){fig-align="center" width="80%"}
+
+The so-called *bats wing* pattern of central, perihilar, symmetric consolidation is actually uncommon.
+
+## Hydrostatic Lung Edema and Thoracic Vessels
+
+The distribution of pulmonary blood flow.
+
+::: columns
+
+::: {.column width="40%"}
+- In the physiologic state, reflective of cranial-caudal hydrostatic pressure, the vessels—arteries and veins—in the lower lungs are slightly more distended than those in the upper lungs. 
+
+- When pulmonary blood flow and volume is increased, as in a left-to-right shunt or hypervolemia, the vessels are distended, and equal in caliber from top to bottom.
+
+- In chronic—not acute—pulmonary venous hypertension, the upper zone vessels are more distended. This occurs because of pathologic changes—intimal hypertrophy and hyperplasia—that develop predominantly in these vessels over years. The resultant increase in regional vascular resistance results in the redistribution of blood flow.
+
+:::
+
+::: {.column width="60%"}
+
+<br>
+<br>
+![](images/bloodflowdistribution.jpg){fig-align="center" width="100%"}
+
+[Source: Milne, et al. [The radiologic distinction of cardiogenic and noncardiogenic edema](https://pubmed.ncbi.nlm.nih.gov/3872571/)]{style="color: gray; font-size: 22px;"}
+
+:::
+
+:::
+
+## Hydrostatic Lung Edema and Thoracic Vessels
+
+The distribution of pulmonary blood flow.
+
+<br>
+
+![](images/distributionbloodflowcxr.jpg){fig-align="center" width="80%"}
+
+## Hypervolemia and the Vascular Pedicle
+
+::: columns
+
+::: {.column width="40%"}
+
+<br>
+
+Milne conceptualized and defined the notion of the *vascular pedicle* on frontal radiography. 
+
+<br>
+
+The width of the pedicle is measured as the distance between two landmarks: 1) where the lateral margin of the SVC crosses right main bronchus, and 2) the origin of the left subclavian artery. In particular, the SVC is the relevant portion.
+
+
+
+:::
+
+::: {.column width="60%"}
+
+<br>
+
+![](images/vascularpedicle.jpg){width="100%"}
+
+[Source: Milne, et al. [The vascular pedicle of the heart and the vena azygos](https://pubmed.ncbi.nlm.nih.gov/6729098/)]{style="color: gray; font-size: 22px;"}
+
+
+:::
+:::
+
+##  A Clinical Example of Hypervolemia
+
+<br>
+
+It's very helpful to have a recent prior examination for comparison.
+
+<br>
+<br>
+
+![](images/clinicalcasehypervolemia.jpg){fig-align="center" width="100%"}
+
+## Summary of Findings in Hydrostatic Lung Edema
+
+<br>
+<br>
+
+|                                                   | [**Cardiac Disease**]{style="color: #4484ba;"} | [**Hypervolemia**]{style="color: #4484ba;"} |
+|:----------------:|:---------------------:|:-----------------------------:|
+|     [**Heart size**]{style="color: #4484ba;"}     |               Enlarged or normal               |      Normal or new chamber enlargement      |
+| [**Pulmonary vessels**]{style="color: #4484ba;"}  |           Inversion of blood flow^1^           |         Balanced flow distribution          |
+|  [**Vascular pedicle**]{style="color: #4484ba;"}  |              Normal or widened^2^              |        Widened **as a new finding**         |
+| [**Interstitial edema**]{style="color: #4484ba;"} |                      Yes                       |                     Yes                     |
+| [**Pleural effusions**]{style="color: #4484ba;"}  |                      Yes                       |                     Yes                     |
+
+<br>
+[1. If chronic pulmonary venous hypertension is present.]{style="font-size: 22px;"}\
+[2. The SVC and azygos vein will be distended if right atrial hypertension is present.]{style="font-size: 22px;"}
+
+## Acute Lung Injury Edema
+
+Two key points enable a distinction between hydrostatic and acute lung injury edema.
+
+::: {.callout-note appearance="minimal"}
+[• In hydrostatic lung edema, there is (usually) a sequential accumulation of fluid--interstitial, then alveolar.]{style="font-size: 30px;"}
+
+[• In acute lung injury edema, alveolar flooding occurs immediately.]{style="font-size: 30px;"}
+:::
+
+<br>
+Typical findings in acute lung injury edema
+
+![](images/typicalaliedema.jpg){fig-align="center" width="62%"}
+
+The distribution of edema fluid (consolidation) is typically diffuse and symmetric.
+
+##  Acute Lung Injury Edema in Acute Respiratory Distress Syndrome
+
+Criteria for the diagnosis of the *clinical* entity---ARDS---have been revised several times. This excerpt from UpToDate <sup>®</sup> is a useful summary.
+
+![](images/berlincriteriaards.jpg){fig-align="center" width="100%"}
+
+It's common to be asked this question by a clinical colleague: "Are the findings consistent with ARDS"? Of course, that's the wrong question, which should be: "Are the findings consistent with acute lung injury edema?" 
+
+Radiologists do not diagnose ARDS, as such!
+
+## CT of Acute Lung Injury Edema
+
+<br>
+
+::: columns
+
+::: {.column width="50%"}
+
+![](images/babylungsards.jpg){fig-align="center" width="75%"}
+
+<br>
+
+Don't confuse the posterior lung opacities with anything else other than consolidated and ---particularly---atelectatic lung. This is potentially so-called recruitable (by different ventilatory strategies) lung.
+
+The concepts of (dorsal) "sponge" and (ventral) "baby" lungs are evocative. The size of the ventral aerated lung in ARDS (with the patient supine) suggests a "baby" lung--- as conceptualized by [Gattinoni et. al](https://pubmed.ncbi.nlm.nih.gov/3292784/).
+
+:::
+
+::: {.column width="50%"}
+
+![](images/spongebabylung.jpg){fig-align="center" width="100%"}
+
+
+<br>
+
+This lovely explanatory graphic (Figure 7; page 255) is from the free book *An Approach to Mechanical Heart-Lung Interaction* by Jon-Emile S. Kenny [available here](https://heart-lung.org/book).
+
+There is relatively more lung volume in the dorsal lungs.
+
+:::
+:::
+
+
+## Comparing Hydrostatic and Acute Lung Injury Edema
+
+<br>
+<br>
+
+|                                                   | [**Cardiac Disease**]{style="color: #4484ba;"} | [**Hypervolemia**]{style="color: #4484ba;"} | [**Acute Lung Injury**]{style="color: #4484ba;"} |
+|:----------------:|:----------------:|:------------------:|:----------------:|
+|     [**Heart size**]{style="color: #4484ba;"}     |               Enlarged or normal               |      Normal or new chamber enlargement      |                      Normal                      |
+| [**Pulmonary vessels**]{style="color: #4484ba;"}  |            Inversion of blood flow^1^             |         Balanced flow distribution          |                      Normal                      |
+|  [**Vascular pedicle**]{style="color: #4484ba;"}  |               Normal or widened                |          Widened as a new finding           |                      Normal                      |
+| [**Interstitial edema**]{style="color: #4484ba;"} |                      Yes                       |                     Yes                     |     [No or minimal]{style="color: #4484ba;"}     |
+| [**Pleural effusions**]{style="color: #4484ba;"}  |                      Yes                       |                     Yes                     |                       Yes                        |
+
+<br>
+[1. If chronic pulmonary venous hypertension is present.]{style="font-size: 22px;"}
+
+
+##  Lung Edema---Variations on the Basic Theme
+
+Here are three cases. Let's try to determine, in each case, whether hydrostatic or acute lung injury edema is present, and the associated pathophysiology.
+
+::: panel-tabset
+
+## Case one
+
+There is a history of mitral valve replacement.
+
+A cardiac ultrasound report states: "Thrombus is present on the mechanical mitral valve prosthesis.\
+There is a marked pressure gradient (mean of 24mm Hg) implying thrombotic occlusion of the prosthesis."
+
+![](images/cxrmitralvalvethrombosis.jpg){width="35%" fig-align="center"}
+
+## Case two
+
+This young ski tourist in Utah developed acute shortness of breath close to the top of his first run. 
+
+He was transported to the E.D.
+
+![](images/cxrHAPE.jpg){width="60%" fig-align="center"}
+
+## Case three
+
+This is a patient in the neurointensive care unit.
+
+![](images/cxrneurogenicedema.jpg){width="50%" fig-align="center"}
+
+
+<!----------------------------- CLOSE TABSET ----------------------------->
+:::
+
+##  Explanation
+
+The "rules" appear to be broken. *Case one* represents acute lung edema from acute, severe left atrial hypertension. Yet, only minimal interstitial edema is present. *Case two* is high-altitude pulmonary edema; *Case three* is neurogenic lung edema.
+
+The explanation for these cases derives from the phenomenon of *Stress Failure of Pulmonary Capillaries*, a form of acute lung injury, involving the alveolar-capillary barrier. This was elucidated by John West and is nicely depicted in this figure from [one of his articles](https://pubmed.ncbi.nlm.nih.gov/1356184/).
+
+![](images/stressfailure.jpg){width="80%" fig-align="center"}
+
+This phenomenon is present in both neurogenic and high-altitude pulmonary edema and---importantly--- may be spatially heterogeneous in severity and distribution.
+
+##  A Nuanced Approach to Lung Edema
+
+A continuum of acute lung injury, depicted in this modified graphic from an [article by Ketai and Godwin.](https://pubmed.ncbi.nlm.nih.gov/9671417/)
+
+<br>
+
+![](images/lunginjurycontinuum.jpg){width="60%" fig-align="center"}
+
+::: {.callout-note appearance="minimal"}
+
+[A summary]{style="font-size: 28px;"}
+
+• [In hydrostatic lung edema, there is (usually) a sequential accumulation of fluid--interstitial, then alveolar.]{style="font-size: 28px;"}
+
+• [When hydrostatic edema is the result of acute and severe capillary hypertension, *stress failure of the capillaries* will disrupt this sequence.]{style="font-size: 28px;"}
+
+• [With acute and substantial injury to the alveolar-capillary barrier, alveolar flooding occurs immediately.]{style="font-size: 28px;"}
+:::
+
+## Lung Edema in Pulmonary Venous Occlusions
+
+Narrowing and occlusions of veins---large and small---may produce lung edema.
+
+The edema may be diffuse or focal depending on the cause and location.
+
+Here are three illustrative cases.
+
+::: panel-tabset
+
+## Case one
+
+![](images/fibrosingmediastinitis.jpg){width="90%" fig-align="center"}
+<br>
+Diagnosis: *Calcified fibrosing mediastinitis*
+
+The mediastinal tissue (blue box) encases the right superior pulmonary vein with resultant right upper lobe interstitial edema.
+
+## Case two
+
+
+Chronic edema, mostly in the left lower lobe, a consequence of a radiofrequency ablation procedure for atrial fibrillation.
+
+![](images/atrialablation.jpg){width="80%" fig-align="center"}
+
+
+## Case three
+
+A patient diagnosed with pulmonary arterial hypertension (normal pulmonary artery occlusion pressure).
+
+Findings: Diffuse, bilateral interstitial edema.
+
+Diagnosis: *Pulmonary veno-occlusive disease*--affecting small pulmonary veins.
+
+![](images/pvod.jpg){width="60%" fig-align="center"}
+
+
+
+:::
+
+## Lung Edema from Impaired Clearance of Lung Water. Role of Lymphatics.
+
+- lymph flow easily clears physiologically filtered lung water
+- lymphatic obstruction, typically by metastatic tumor--*lymphangitic tumor spread*--manifests as lung edema
+- the edema is typically interstitial, *may be focal and asymmetric*, and associated with transudative pleural effusions
+- lymphangitic tumor spread may be accompanied by other forms of metastases, such as solid nodules
+- uncommonly, lymphangitic tumor spread is the first manifestation of cancer
+
+::: panel-tabset
+
+## Clinical presentation
+
+Unexplained, new dyspnea in a healthy female
+
+## Radiography
+
+![](images/lymphangiticcxr.jpg){width="35%" fig-align="center"}
+
+## CT
+
+<br>
+
+![](images/lymphangiticct.jpg){width="90%" fig-align="center"}
+
+##  Pathology Report of an Open Lung Biopsy
+
+![](images/slb.jpg){width="60%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE TABSET ----------------------------->
+:::
+
+##  A Big Summary
+
+<br>
+
+::: {.callout-note appearance="minimal"}
+
+- [Hydrostatic edema is (most often) characterized by the sequential accumulation of lung water: interstitial, then alveolar.]{style="font-size: 30px;"}  
+
+<br>
+
+
+- [Stress failure of pulmonary capillaries from severe, acute capillary hypertension modifies this rule.]{style="font-size: 30px;"}   
+
+<br>
+
+
+- [Imaging findings of interstitial lung edema reflect the anatomic interstitial compartments of the lung: the axial, peri-bronchovascular; the sub-pleural; and the interlobular septal compartments]{style="font-size: 30px;"} 
+
+<br>
+
+- [Lymphatic obstruction by tumor results in interstitial lung edema. The thickened septa are usually smooth, not nodular.]{style="font-size: 30px;"} 
+
+<br>
+
+- [Obstruction of pulmonary veins may produce weird patterns of lung edema.]{style="font-size: 30px;"} 
+
+:::
+
+
+
+
+
