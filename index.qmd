@@ -28,6 +28,10 @@ editor: visual
 
 <h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
 
+<br>
+
+<h2>URL: https://howardm.github.io/ImagingofLungEdema </h2>
+
 ![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
 
 ## A Simple Definition of Lung Edema and the Starling Equation
@@ -69,10 +73,11 @@ The *Starling Equation* describes the factors determining fluid filtration acros
 
 Two general causes should be considered:
 
-- left atrial hypertension of any etiology, most commonly 
+- left atrial hypertension of any etiology, most commonly: 
     - diminished left ventricular ejection fraction 
-    - hypervolemia
     - cardiac valvular disease
+    - hypervolemia
+<br>    
 - narrowing and/or occlusions of pulmonary veins
 
 :::
@@ -114,6 +119,7 @@ The pathologic counterpart is *Diffuse Alveolar Damage*
 
 Interstitial Edema
 
+To understand this, we need to review the anatomic constituents of the pulmonary interstitium.
 
 ::: columns
 ::: {.column width="40%"}
