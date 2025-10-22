@@ -402,7 +402,29 @@ The explanation for these cases derives from the phenomenon of *Stress Failure o
 
 ![](images/stressfailure.jpg){width="80%" fig-align="center"}
 
-This phenomenon is present in both neurogenic and high-altitude pulmonary edema and---importantly--- may be spatially heterogeneous in severity and distribution.
+
+
+## Purported Mechanisms in Neurogenic and High-Altitude Pulmonary Edema
+
+
+::::: columns
+::: {.column width="50%"}
+
+<br>
+<br>
+<br>
+![](images/westarticle.jpg){fig-align="center" width="100%"}
+
+:::
+
+::: {.column width="50%"}
+![](images/westarticle2.jpg){fig-align="center" width="100%"}
+
+:::
+
+:::::
+
+
 
 ## A Nuanced Approach to Lung Edema
 
